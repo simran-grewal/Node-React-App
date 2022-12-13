@@ -6,7 +6,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "css-loader": "^3.5.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nodemon": "^2.0.3",
     "pg": "^8.0.3",
     "react": "^16.13.1",
